@@ -24,7 +24,7 @@ export const Login: React.FC = () => {
     <AuthenticationPageLayout>
       <AuthenticationFormLayout>
         <Stack gap={Spacing.Lg}>
-          <Heading level={1}>Log In</Heading>
+          <Heading level={1}>THIS IS A TEST</Heading>
           <LoginForm onSuccess={onSuccess} onError={onError} />
         </Stack>
       </AuthenticationFormLayout>

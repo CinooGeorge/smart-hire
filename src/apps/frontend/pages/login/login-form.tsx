@@ -78,7 +78,7 @@ const LoginForm: React.FC<LoginFormProps> = ({ onError, onSuccess }) => {
           fullWidth
           isLoading={isLoginLoading}
         >
-          Log In
+          Sign In
         </Button>
         <Inline gap={Spacing.Xs} justify="center">
           <Text as="span" size="sm" weight="medium">
