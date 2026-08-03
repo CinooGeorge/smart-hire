@@ -40,3 +40,4 @@ PS: Before you start working on the application, these [three git settings](http
 This project is licensed under the [MIT License](LICENSE). You are free to fork, modify, and use it, including commercially.
 
 It is built and maintained by **Better** ([Jalan Technology Consulting Pvt. Ltd.](https://bettrhq.com/)). The MIT license requires that the copyright and permission notice be retained in all copies. If you build on this template, we ask that you keep that attribution and, where practical, credit Better with a link back to [bettrhq.com](https://bettrhq.com/).
+Learning GitHub Actions CI/CD
